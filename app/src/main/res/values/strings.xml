@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gallery Manager</string>
+    <string name="grant_access_txt">Click to grant access to images \n  לחץ להענקת גישה לתמונות המכשיר  </string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Photos"
+        android:icon="@drawable/photos_icon"
+        android:title="Photos" />
+
+    <item
+        android:id="@+id/navigation_Trash_Bin"
+        android:icon="@drawable/trash_bin_icon"
+        android:title="Trash Bin" />
+
+</menu>
